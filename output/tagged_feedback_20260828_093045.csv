@@ -1,0 +1,9 @@
+feedback,sentiment,reason
+The product quality is amazing!,Positive,Product quality is amazing
+Delivery was very late.,Negative,Late delivery
+The product is okay,Neutral,Neutral feedback
+I absolutely love this product!,Positive,Expresses strong liking
+The item arrived damaged.,Negative,Damaged item indicates dissatisfaction
+Very happy with my purchase.,Positive,Satisfaction expressed
+The customer service was terrible.,Negative,Terrible customer service
+It works as expected.,Positive,It works as expected
